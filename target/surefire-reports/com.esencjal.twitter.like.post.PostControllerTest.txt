@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.esencjal.twitter.like.post.PostControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.532 sec
